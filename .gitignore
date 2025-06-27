@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Build output
+out/
+dist/
+*.vsix
+
+# VS Code
+.vscode/
+.vscode-test/
+.vscode-test.mjs
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+*.suo
+*.user
+*.log
