@@ -1,5 +1,9 @@
 # 🧩 Vue Quick Import
 
+<p align="center">
+  <img src="icon.png" width="100" alt="Vue Quick Import Icon" />
+</p>
+
 Right-click any Vue file to instantly import it into your active editor.  
 Skip the typing and let the extension handle the import paths and component naming for you!
 
