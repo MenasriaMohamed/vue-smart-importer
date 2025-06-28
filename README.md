@@ -11,11 +11,11 @@ Skip the typing and let the extension handle the import paths and component nami
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/yourname.vue-quick-import.svg)
-[![GitHub Stars](https://img.shields.io/github/stars/MenasriaMohamed/vue-quick-import?style=social)](https://github.com/MenasriaMohamed/vue-quick-import)
+![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/MenasriaMohamed.vue-quick-import.svg)
+[![GitHub Stars](https://img.shields.io/github/stars/MenasriaMohamed/vue-smart-import?style=social)](https://github.com/MenasriaMohamed/vue-smart-import)
 
 📦 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=yourname.vue-quick-import)  
-🔗 [View on GitHub](https://github.com/MenasriaMohamed/vue-quick-import)
+🔗 [View on GitHub](https://github.com/MenasriaMohamed/vue-smart-import)
 
 ---
 
