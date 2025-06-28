@@ -60,11 +60,11 @@ Skip the typing and let the extension handle the import paths and component nami
 
 ## 📸 Demo
 
-> _(Replace this with your actual GIF or screenshot)_
+<!-- > _(Replace this with your actual GIF or screenshot)_ -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="media/demo.gif" width="600" alt="Vue Quick Import Demo" />
-</p>
+</p> -->
 
 ---
 
@@ -171,7 +171,7 @@ code --install-extension vue-quick-import
 
 Found a bug or have a feature idea?
 
-- 🐛 [Submit an Issue](https://github.com/yourusername/vue-quick-import/issues)
+- 🐛 [Submit an Issue](https://github.com/MenasriaMohamed/vue-smart-importer/issues)
 - 📥 Fork the repo and make a pull request
 - 💡 Request features through GitHub Issues
 
@@ -181,8 +181,8 @@ Found a bug or have a feature idea?
 
 If you find this extension helpful:
 
-- 🌟 Star it on [GitHub](https://github.com/yourusername/vue-quick-import)
-- 💬 Leave a review on the [Marketplace](https://marketplace.visualstudio.com/items?itemName=yourname.vue-quick-import)
+- 🌟 Star it on [GitHub](https://github.com/MenasriaMohamed/vue-smart-importer)
+- 💬 Leave a review on the [Marketplace](https://marketplace.visualstudio.com/items?itemName=MenasriaMohamed.vue-quick-import)
 - 📣 Share it with your Vue dev friends
 
 ---
@@ -190,8 +190,8 @@ If you find this extension helpful:
 ## 📬 Contact
 
 **Mohamed Menasria**  
-📧 Email: *youremail@example.com*  
-🌐 GitHub: [@yourusername](https://github.com/yourusername)
+📧 Email: *menasria1996mohamed@gmail.com*  
+🌐 GitHub: [@MenasriaMohamed](https://github.com/MenasriaMohamed)
 
 ---
 
