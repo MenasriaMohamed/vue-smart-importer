@@ -3,6 +3,7 @@
   "displayName": "Vue Quick Import",
   "description": "Right-click any Vue file to instantly import it into your active editor",
   "version": "0.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.101.0"
   },

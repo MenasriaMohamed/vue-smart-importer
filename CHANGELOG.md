@@ -1,9 +1,23 @@
-# Change Log
+# Changelog
 
-All notable changes to the "vue-smart-importer" extension will be documented in this file.
+All notable changes to the **vue-quick-import** extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.1] - 2025-06-28
 
-## [Unreleased]
+### Added
 
-- Initial release
+- Initial release of Vue Quick Import
+- Right-click context menu for importing Vue files
+- Smart relative path calculation
+- Automatic component naming (kebab-case to PascalCase)
+- Support for `.vue`, `.ts`, `.js`, `.tsx`, and `.jsx` files
+- Intelligent import positioning
+- Duplicate import detection
+- Module naming for TypeScript/JavaScript files
+
+### Features
+
+- Context menu integration in Explorer panel
+- Smart path resolution between files
+- Automatic file extension handling
+- Clean import statement generation
