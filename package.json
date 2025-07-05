@@ -2,7 +2,7 @@
   "name": "vue-quick-import",
   "displayName": "Vue Quick Import",
   "description": "Right-click any Vue file to instantly import it into your active editor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/MenasriaMohamed/vue-smart-importer"

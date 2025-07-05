@@ -62,9 +62,9 @@ Skip the typing and let the extension handle the import paths and component nami
 
 <!-- > _(Replace this with your actual GIF or screenshot)_ -->
 
-<!-- <p align="center">
-  <img src="media/demo.gif" width="600" alt="Vue Quick Import Demo" />
-</p> -->
+<p align="center">
+  <img src="Animation.gif" width="600" alt="Vue Quick Import Demo" />
+</p>
 
 ---
 
